@@ -5,10 +5,10 @@
 ## Haiku function template
 
 def Haiku1():
-    print("haiku by:","AUTHOR")
-    print("REGEL1")
-    print("REGEL2")
-    print("REGEL3")
+    print("haiku by:","Yaido")
+    print("Winter seclusion -")
+    print("Listening, that evening,")
+    print("To the rain in the mountain.")
 
 ## Haiku function template
 
