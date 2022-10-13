@@ -13,10 +13,10 @@ def Haiku1():
 ## Haiku function template
 
 def Haiku2():
-    print("haiku by:","AUTHOR")
-    print("REGEL1")
-    print("REGEL2")
-    print("REGEL3")
+    print("haiku by:","Hamza")
+    print("From time to time")
+    print("The clouds give rest")
+    print("To the moon-beholders")
 
 
 ## Haiku function template
