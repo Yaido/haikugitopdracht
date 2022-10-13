@@ -30,10 +30,10 @@ def Haiku3():
 ## Haiku function template
 
 def Haiku4():
-    print("haiku by:","AUTHOR")
-    print("REGEL1")
-    print("REGEL2")
-    print("REGEL3")
+    print("haiku by:","Yessin")
+    print("The lamp once out")
+    print("Cool stars enter")
+    print("The window frame.")
 
 
 
