@@ -22,10 +22,10 @@ def Haiku2():
 ## Haiku function template
 
 def Haiku3():
-    print("haiku by:","AUTHOR")
-    print("REGEL1")
-    print("REGEL2")
-    print("REGEL3")
+    print("haiku by:","Robin")
+    print("An old silent pond...")
+    print("A frog jumps into the pond,")
+    print("splash! Silence again.")
 
 ## Haiku function template
 
